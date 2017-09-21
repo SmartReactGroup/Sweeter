@@ -48,5 +48,4 @@ Finally, open browser, enter: [http://localhost:3000/](http://localhost:3000/)
 
 ## Developer
 
-<img alt="Kenny" src="https://avatar-cdn.atlassian.com/2cc88cd37d6c1381a46a597922cb11e5" width="100">
-
+<img alt="Kenny" src="https://avatar-cdn.atlassian.com/2cc88cd37d6c1381a46a597922cb11e5" width="60"><img alt="Kevin" src="https://avatars0.githubusercontent.com/u/22487663?v=4&s=64" width="60">
